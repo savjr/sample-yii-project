@@ -1,0 +1,7 @@
+http://localhost/yii_projects/first_project/web/index.php?r=gii%2Fdefault%2Fview&id=crud
+
+
+GII: http://localhost/yii_projects/first_project/web?r=gii
+
+
+http://localhost/yii_projects/project03/web/index.php?r=accimt/
